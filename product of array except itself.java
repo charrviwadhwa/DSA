@@ -35,7 +35,7 @@ public class leet_code_238_2nd_method {
 			System.out.print(ans[m]+" ");
 		}
 		
-		
+
 
 	}
 
