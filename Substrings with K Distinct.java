@@ -27,7 +27,7 @@ class Solution {
         return ans;
      }
     int countSubstr(String s, int k) {
-        // your code here
+     
        return helper(s, k) - helper(s, k-1);
     }
 }
