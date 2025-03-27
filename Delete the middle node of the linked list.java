@@ -1,3 +1,4 @@
+
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
          if (head == null || head.next == null) {
